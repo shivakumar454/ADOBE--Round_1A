@@ -1,0 +1,4 @@
+PyMuPDF==1.22.3
+pytesseract
+pdf2image
+Pillow
